@@ -10,4 +10,4 @@ Move the limbs move clicking and draging on the corresponding red circle
 ![](https://github.com/vishal-chandra/Stickman-Animation/blob/master/Animation/res/help/limbMove.gif)
 
 UI
-![](https://github.com/vishal-chandra/Stickman-Animation/blob/master/Animation/res/help/buttonsHelp.png = 250x250)
+![](https://github.com/vishal-chandra/Stickman-Animation/blob/master/Animation/res/help/buttonsHelp.png =250x250)
