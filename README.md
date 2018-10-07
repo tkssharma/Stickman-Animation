@@ -9,5 +9,5 @@ Move the whole figure by clicking and dragging on the body
 Move the limbs move clicking and draging on the corresponding red circle  
 ![](https://github.com/vishal-chandra/Stickman-Animation/blob/master/Animation/res/help/limbMove.gif)
 
-UI
-<img src="https://github.com/vishal-chandra/Stickman-Animation/blob/master/Animation/res/help/buttonsHelp.png" width="200" height="200" />
+UI  
+<img src="https://github.com/vishal-chandra/Stickman-Animation/blob/master/Animation/res/help/buttonsHelp.png" width="400" height="400" />
